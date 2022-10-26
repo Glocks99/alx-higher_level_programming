@@ -1,3 +1,1 @@
-readme
-readme ok.
-python inheritance
+python inheritance.
